@@ -1,2 +1,2 @@
 # DNA-H1
-HTML Homework refactoring code replacing "&lt;div>" tags
+HTML Homework refactoring code replacing "<div>" tags
